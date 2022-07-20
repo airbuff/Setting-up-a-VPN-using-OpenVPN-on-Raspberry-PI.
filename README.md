@@ -5,12 +5,16 @@ Creating a VPN on a raspberry pi to understand the technology better. Making a V
 **PREFACE**
 
 In 2019, I was travelling through Malaysian airport. I naively attempted to authenticate with the access point for their airport Wi-Fi, in a foreign country after a long flight I just wanted to see a familiar face or chat with someone back home. My attempt was unsuccessful so I went back to listening to music and waited for my flight.
+
 This simple unsuccessful attempt at authentication was enough. Enough for PayPal to send me email notifications confirming there had been funds deposited to a blizzard account under my name. I tried but, I wasn’t able to log into my blizzard account. So I proceeded with forgot my password, luckily for me I had enabled MFA on the account, after gaining access back into the account I could see there were multiple transactions to a game on blizzard. On hindsight I was extremely close to losing my account completely, but I’m thankful for MFA. 
+
 I reached out to PayPal and explained what had happened and they refunded my account. 
 After the incident I thought to myself about things I could’ve done different to prevent this from happening again. I found VPN would’ve been a perfect solution. 
 VPN services now days are sub services that allow you to connect to any of the service providers servers all across the world. Sometimes the ISP can cap your speed VPN can be used to bypass that, VPN also give you the freedom to evade geo-restriction. Few streaming services have implemented geo-restriction as common practice. 
+
 Despite all this what is a VPN? How does it work? Let’s explore the topic and see if we can answer those questions.
-Scope: Build a VPN Server using a Raspberry pi to understand the overall concept better.
+
+**Scope:** Build a VPN Server using a Raspberry pi to understand the overall concept better.
 
 **VPN**
 
