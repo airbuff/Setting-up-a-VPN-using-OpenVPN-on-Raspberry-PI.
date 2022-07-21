@@ -30,7 +30,6 @@ There are a few explicit terms that are used technically when discussing VPN the
 
 ![Image](https://user-images.githubusercontent.com/107795542/179885049-028f150f-a7fb-40b1-94d1-3375736ca0fb.png)
 
-![image](https://user-images.githubusercontent.com/107795542/180112521-dccd3bcc-08a5-4148-85cc-7f0aaeeb154b.png)
 
  
 
