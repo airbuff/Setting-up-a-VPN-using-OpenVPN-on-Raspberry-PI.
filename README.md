@@ -158,16 +158,6 @@ Once that's done you can connect to the VPN and test it.
 
 ![image](https://user-images.githubusercontent.com/107795542/180122265-d960c889-bd02-469a-9e90-7d417ad407b7.png)
 
-Here is a very quick run through with extra steps I took to establish my VPN, there is a few mistakes on the video such as $PATH when I'm trying to figure out what dir I am. 
-
-https://www.youtube.com/watch?v=7UMlpldmTgM
-
-
-
-
-
-
-
 
 
 
