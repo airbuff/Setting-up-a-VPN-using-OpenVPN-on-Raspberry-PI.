@@ -58,7 +58,7 @@ This is a sketch of what the whole infrastructure we'll be setting up.
 This is a technical diagram of the same idea. 
 
 ![image](https://user-images.githubusercontent.com/107795542/180113384-2b0ab7cd-23ac-4efe-8e30-3a09adb51b87.png)
-
+!!CRED DAN HENRICK!!
 **Overview** 
 
 Alright, here it is the down and dirty of how it all works.
